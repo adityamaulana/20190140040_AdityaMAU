@@ -1,0 +1,14 @@
+.hero-banner{
+
+    background-image: url('lisa.jpg');
+    background-size: cover;
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.footer{
+
+    background-position: center;
+    height: 50px;
+}
